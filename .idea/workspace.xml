@@ -2,37 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e47ace69-dd87-4e51-9ea4-6888e0e0f2b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Entity/Blog.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Controller/BlogController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/DataFixtures/ORM/BlogFixtures.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Entity/Repository/BlogRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Entity/Comment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Controller/CommentController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/DataFixtures/ORM/CommentFixtures.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Entity/Repository/CommentRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Form/CommentType.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Entity/Enquiry.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Form/EnquiryType.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/DoctrineMigrations/Version20131010000913.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/public/css/blog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/config/config.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Page/contact.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Page/contactEmail.txt.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Comment/create.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Comment/form.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Comment/index.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Blog/show.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/AppKernel.php" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Blogger/BlogBundle/Controller/PageController.php" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Controller/PageController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/base.html.twig" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/base.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config.yml" afterPath="$PROJECT_DIR$/app/config/config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Page/index.html.twig" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Page/index.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/layout.html.twig" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/layout.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/config/routing.yml" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/config/routing.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/symblog.iml" afterPath="$PROJECT_DIR$/.idea/symblog.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="symblog.iws" />
@@ -66,8 +35,8 @@
     <file path="/PageController.php" changelist="e47ace69-dd87-4e51-9ea4-6888e0e0f2b0" time="1381353800836" ignored="false" />
     <file path="/config.yml" changelist="e47ace69-dd87-4e51-9ea4-6888e0e0f2b0" time="1381263514494" ignored="false" />
     <file path="/contact.html.twig" changelist="e47ace69-dd87-4e51-9ea4-6888e0e0f2b0" time="1381264343188" ignored="false" />
-    <file path="/dummy.txt" changelist="e47ace69-dd87-4e51-9ea4-6888e0e0f2b0" time="1381358357774" ignored="false" />
-    <file path="/Dummy.txt" changelist="e47ace69-dd87-4e51-9ea4-6888e0e0f2b0" time="1381355655118" ignored="false" />
+    <file path="/dummy.txt" changelist="e47ace69-dd87-4e51-9ea4-6888e0e0f2b0" time="1381364243935" ignored="false" />
+    <file path="/Dummy.txt" changelist="e47ace69-dd87-4e51-9ea4-6888e0e0f2b0" time="1381364146886" ignored="false" />
     <file path="/Blog.php" changelist="e47ace69-dd87-4e51-9ea4-6888e0e0f2b0" time="1381357109120" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,10 +69,8 @@
       <file leaf-file-name="CommentController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Controller/CommentController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="14" selection-start="1406" selection-end="1406" vertical-scroll-proportion="-1.3076923">
-              <folding>
-                <element signature="e#108#165#0" expanded="true" />
-              </folding>
+            <state line="47" column="14" selection-start="1406" selection-end="1406" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -111,10 +78,8 @@
       <file leaf-file-name="Comment.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Entity/Comment.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="210" column="6" selection-start="3561" selection-end="3561" vertical-scroll-proportion="-8.153846">
-              <folding>
-                <element signature="e#90#122#0" expanded="true" />
-              </folding>
+            <state line="210" column="6" selection-start="3561" selection-end="3561" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -122,7 +87,7 @@
       <file leaf-file-name="form.html.twig" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Comment/form.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="7" selection-start="318" selection-end="318" vertical-scroll-proportion="-4.576923">
+            <state line="7" column="7" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -131,7 +96,7 @@
       <file leaf-file-name="create.html.twig" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Comment/create.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="14" selection-start="276" selection-end="276" vertical-scroll-proportion="-4.576923">
+            <state line="7" column="14" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -140,7 +105,7 @@
       <file leaf-file-name="show.html.twig" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Blog/show.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="14" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.8030888">
+            <state line="27" column="14" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.88269234">
               <folding />
             </state>
           </provider>
@@ -149,7 +114,7 @@
       <file leaf-file-name="index.html.twig" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Comment/index.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -158,7 +123,7 @@
       <file leaf-file-name="CommentType.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Form/CommentType.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="28" selection-start="486" selection-end="486" vertical-scroll-proportion="-10.461538">
+            <state line="18" column="28" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -167,10 +132,8 @@
       <file leaf-file-name="Blog.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Entity/Blog.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="21" selection-start="537" selection-end="537" vertical-scroll-proportion="-14.038462">
-              <folding>
-                <element signature="e#87#135#0" expanded="true" />
-              </folding>
+            <state line="25" column="21" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -178,10 +141,8 @@
       <file leaf-file-name="CommentFixtures.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/DataFixtures/ORM/CommentFixtures.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="124" column="5" selection-start="5432" selection-end="5432" vertical-scroll-proportion="-14.384615">
-              <folding>
-                <element signature="e#118#167#0" expanded="true" />
-              </folding>
+            <state line="124" column="5" selection-start="5432" selection-end="5432" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -201,6 +162,11 @@
       <command text="php app/console doctrine:generate:entities Blogger\BlogBundle" />
       <command text="php app/console assets:install web" />
       <command text=" php app/console generate:doctrine:form BloggerBlogBundle:Comment" />
+      <command text="git add -A" />
+      <command text="git commit" />
+      <command text="git commit -m &quot;sec. commit&quot;" />
+      <command text="git " />
+      <command text="git push" />
     </commandsHistory>
   </component>
   <component name="Git.Settings">
@@ -269,7 +235,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -830,6 +795,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -838,8 +804,8 @@
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -894,21 +860,21 @@
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291714" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291714" sideWeight="0.5003934" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27773407" sideWeight="0.6708286" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28245476" sideWeight="0.6715742" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291714" sideWeight="0.5003934" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3291714" sideWeight="0.4996066" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32842582" sideWeight="0.4996066" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291714" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -977,53 +943,39 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Entity/Repository/BlogRepository.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="30" selection-start="615" selection-end="615" vertical-scroll-proportion="-15.038462">
-          <folding />
-        </state>
+        <state line="24" column="30" selection-start="615" selection-end="615" vertical-scroll-proportion="-15.038462" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Entity/Repository/CommentRepository.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="30" selection-start="790" selection-end="790" vertical-scroll-proportion="-14.038462">
-          <folding />
-        </state>
+        <state line="27" column="30" selection-start="790" selection-end="790" vertical-scroll-proportion="-14.038462" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Controller/BlogController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="33" selection-start="783" selection-end="783" vertical-scroll-proportion="-13.076923">
-          <folding />
-        </state>
+        <state line="29" column="33" selection-start="783" selection-end="783" vertical-scroll-proportion="-13.076923" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/public/css/blog.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="49" selection-start="1077" selection-end="1077" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="15" column="49" selection-start="1077" selection-end="1077" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/DataFixtures/ORM/CommentFixtures.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="124" column="5" selection-start="5432" selection-end="5432" vertical-scroll-proportion="-14.384615">
-          <folding>
-            <element signature="e#118#167#0" expanded="true" />
-          </folding>
+        <state line="124" column="5" selection-start="5432" selection-end="5432" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/config/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/config/routing.yml">
@@ -1035,48 +987,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Entity/Comment.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="210" column="6" selection-start="3561" selection-end="3561" vertical-scroll-proportion="-8.153846">
-          <folding>
-            <element signature="e#90#122#0" expanded="true" />
-          </folding>
+        <state line="210" column="6" selection-start="3561" selection-end="3561" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Entity/Blog.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="21" selection-start="537" selection-end="537" vertical-scroll-proportion="-14.038462">
-          <folding>
-            <element signature="e#87#135#0" expanded="true" />
-          </folding>
+        <state line="25" column="21" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Form/CommentType.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="28" selection-start="486" selection-end="486" vertical-scroll-proportion="-10.461538">
+        <state line="18" column="28" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Controller/CommentController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="14" selection-start="1406" selection-end="1406" vertical-scroll-proportion="-1.3076923">
-          <folding>
-            <element signature="e#108#165#0" expanded="true" />
-          </folding>
+        <state line="47" column="14" selection-start="1406" selection-end="1406" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Comment/create.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="14" selection-start="276" selection-end="276" vertical-scroll-proportion="-4.576923">
+        <state line="7" column="14" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Comment/form.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="7" selection-start="318" selection-end="318" vertical-scroll-proportion="-4.576923">
+        <state line="7" column="7" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1090,7 +1036,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Blog/show.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="14" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.8030888">
+        <state line="27" column="14" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.88269234">
           <folding />
         </state>
       </provider>
